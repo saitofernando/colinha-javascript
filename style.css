@@ -31,6 +31,16 @@
 .imagem {
     width: 200px;
 }
+
+.texto { 
+    width: 200px;
+    height: 200px;
+    overflow: auto;
+    background-color: #ccc;
+    padding: 20px;
+}
+
+
 body{
     min-height: 100vh;
     background-color: var(--primary-color);
